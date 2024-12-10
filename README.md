@@ -76,9 +76,9 @@ Trước khi sinh test, bạn cần cấu hình các thông số:
   - Chọn ngôn ngữ lập trình của file code (C++, Python, Java, v.v.).  
 
 - **Template Sinh:**  
-  - **Themis:** Dùng cho các bài chấm tự động.  
-  - **Word:** Xuất test case dưới dạng docx, trong file docx sẽ tạo ra table chia ra hai bên, một bên là input và bên còn lại là output.  
-  - **Folder:** Lưu các file test trong thư mục cụ thể.  
+  - Themis: Dùng cho các bài chấm tự động.  
+  - Word: Xuất test case dưới dạng docx, trong file docx sẽ tạo ra table chia ra hai bên, một bên là input và bên còn lại là output.  
+  - Folder: Lưu các file test trong thư mục cụ thể.  
 
 - **Vị Trí File Sinh:**  
   - Chọn thư mục nơi các file test sẽ được lưu.  
@@ -106,36 +106,35 @@ Trước khi sinh test, bạn cần cấu hình các thông số:
 ## **Thông Tin Về Tác Giả và Phần Mềm**  
 
 ### Thông Tin Cá Nhân 
-- **Họ và tên:** Lương Gia Bửu
-- **Ảnh chân dung:** ![Lương Gia Bửu](https://link-to-image.com) (Ảnh này có thể được thay thế bằng ảnh thật của tác giả)  
-- **Chức danh hoặc vai trò:** UI/UX Designer, Frontend Developer
+- Họ và tên: Lương Gia Bửu
+- Thông tin liên lạc: [Facebook](https://www.facebook.com/profile.php?id=100014067391747)
+- Chức danh hoặc vai trò: UI/UX Designer, Frontend Developer
 
 ### Thông Tin Cá Nhân  
-- **Họ và tên:** Trần Thái Quốc Việt 
-- **Ảnh chân dung:** ![Trần Thái Quốc Việt](https://link-to-image.com) (Ảnh này có thể được thay thế bằng ảnh thật của tác giả)  
-- **Chức danh hoặc vai trò:** Frontend Developer, Backend Developer
+- Họ và tên: Trần Thái Quốc Việt 
+- Thông tin liên lạc: [Facebook](https://www.facebook.com/viet.tran.482153)
+- Chức danh hoặc vai trò: Frontend Developer, Backend Developer
 
-### **Thông Tin Về Phần Mềm**
+### Thông Tin Về Phần Mềm
 - Ý tưởng: TestGen được phát triển để hỗ trợ lập trình viên trong việc tự động sinh test case cho các bài toán lập trình, từ đó giúp tiết kiệm thời gian và nâng cao hiệu quả làm việc.  
 - Mục tiêu: Mang lại công cụ đơn giản nhưng mạnh mẽ để tạo ra các test case phù hợp với từng loại bài toán và yêu cầu, giúp các lập trình viên chuẩn bị bài kiểm tra hoặc thuật toán dễ dàng hơn.
 
 ### Lịch Sử và Kinh Nghiệm  
-- **Kinh nghiệm lập trình:** 2 năm học tập trong lĩnh vực lập trình python.  
-- **Dự án trước đây:** Tham gia phát triển một ứng dụng dạng Quizz với ngôn ngữ C++ cùng thư viện Window Form.  
+- Kinh nghiệm lập trình: 2 năm học tập trong lĩnh vực lập trình python.  
+- Dự án trước đây: Tham gia phát triển một ứng dụng dạng Quizz với ngôn ngữ C++ cùng thư viện Window Form.  
 
 ### Động Lực và Tầm Nhìn  
-- **Lý do phát triển phần mềm:** Quá trình phát triển phần mềm này bắt nguồn từ nhu cầu tự động hóa việc tạo test case cho các giáo viên, học sinh, sinh viên và những người học tập về toán rời rạc, các bài lập trình thi đấu hay giảng dạy về các bài tập trong lĩnh vực lập trình thi đấu. Mục tiêu là tiết kiệm thời gian cho họ, giúp họ tập trung vào việc giải quyết bài toán thay vì phải tốn thời gian chuẩn bị dữ liệu test case cho các bài toán lập trình thi đấu hay các bài toán liên quan đến tư duy logic. Ngoài ra, phần mềm này còn được thiết kế để đảm bảo hiệu năng cao: chạy nhanh, không yêu cầu kết nối wifi, nhẹ và không cần thiết bị quá đắt đỏ, giúp người dùng có thể sử dụng trên nhiều loại máy tính với cấu hình không quá cao.
-- **Tầm nhìn:** TestGen hướng đến trở thành một công cụ phổ biến giúp các lập trình viên trên toàn thế giới dễ dàng tạo test case cho các bài toán lập trình, từ đó cải thiện hiệu quả làm việc và chất lượng sản phẩm phần mềm.
+- Lý do phát triển phần mềm: Quá trình phát triển phần mềm này bắt nguồn từ nhu cầu tự động hóa việc tạo test case cho các giáo viên, học sinh, sinh viên và những người học tập về toán rời rạc, các bài lập trình thi đấu hay giảng dạy về các bài tập trong lĩnh vực lập trình thi đấu. Mục tiêu là tiết kiệm thời gian cho họ, giúp họ tập trung vào việc giải quyết bài toán thay vì phải tốn thời gian chuẩn bị dữ liệu test case cho các bài toán lập trình thi đấu hay các bài toán liên quan đến tư duy logic. Ngoài ra, phần mềm này còn được thiết kế để đảm bảo hiệu năng cao: chạy nhanh, không yêu cầu kết nối wifi, nhẹ và không cần thiết bị quá đắt đỏ, giúp người dùng có thể sử dụng trên nhiều loại máy tính với cấu hình không quá cao.
+- Tầm nhìn: TestGen hướng đến trở thành một công cụ phổ biến giúp các lập trình viên trên toàn thế giới dễ dàng tạo test case cho các bài toán lập trình, từ đó cải thiện hiệu quả làm việc và chất lượng sản phẩm phần mềm.
 
 ### Thông Tin Liên Hệ  
-- **Email:** apptestgenreport@gmail.com  
-- **Website:** [nguyenvana.com](https://www.nguyenvana.com)  
-- **Mạng xã hội:** [LinkedIn](https://www.linkedin.com/in/nguyenvana), [GitHub](https://github.com/nguyenvana)  
+- Email: apptestgenreport@gmail.com  
+- Mạng xã hội:[GitHub](https://github.com/nguyenvana)  
 
 ### Lời Cảm Ơn và Lời Nhắn  
-- **Lời cảm ơn:** Cảm ơn mọi người đã đồng hành cùng tôi trong suốt quá trình phát triển phần mềm này. Cảm ơn cộng đồng lập trình viên đã cung cấp nhiều tài nguyên quý giá giúp tôi hoàn thiện sản phẩm.  
-- **Lời nhắn:** "Hy vọng TestGen sẽ là công cụ hữu ích cho bạn trong việc tạo test case và giải quyết các vấn đề lập trình!"  
+- Lời cảm ơn: Cảm ơn mọi người đã đồng hành cùng tôi trong suốt quá trình phát triển phần mềm này. Cảm ơn cộng đồng lập trình viên đã cung cấp nhiều tài nguyên quý giá giúp tôi hoàn thiện sản phẩm.  
+- Lời nhắn: "Hy vọng TestGen sẽ là công cụ hữu ích cho bạn trong việc tạo test case và giải quyết các vấn đề lập trình!"  
 
 ### Bản Quyền  
-- **Tuyên bố bản quyền:** Phần mềm được phát triển bởi Lương Gia Bửu và Trần Thái Quốc Việt.  
-- **Ngày phát hành:** 01/12/2024  
+- Tuyên bố bản quyền: Phần mềm được phát triển bởi Lương Gia Bửu và Trần Thái Quốc Việt.  
+- Ngày phát hành: 01/12/2024  
