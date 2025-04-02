@@ -121,7 +121,7 @@ Trước khi sinh test, bạn cần cấu hình các thông số:
 
 ### **Lịch Sử và Kinh Nghiệm**  
 - Kinh nghiệm lập trình: 2 năm học tập trong lĩnh vực lập trình python.  
-- Dự án trước đây: Tham gia phát triển một ứng dụng dạng Quizz với ngôn ngữ C++ cùng thư viện Window Form.  
+- Dự án trước đây: Tham gia phát triển một ứng dụng dạng Quizz với ngôn ngữ C++ cùng thư viện Windows Form.  
 
 ### **Động Lực và Tầm Nhìn**  
 - Lý do phát triển phần mềm: Quá trình phát triển phần **mềm** này bắt nguồn từ nhu cầu tự động hóa việc tạo test case cho các giáo viên, học sinh, sinh viên và những người học tập về toán rời rạc, các bài lập trình thi đấu hay giảng dạy về các bài tập trong lĩnh vực lập trình thi đấu. Mục tiêu là tiết kiệm thời gian cho họ, giúp họ tập trung vào việc giải quyết bài toán thay vì phải tốn thời gian chuẩn bị dữ liệu test case cho các bài toán lập trình thi đấu hay các bài toán liên quan đến tư duy logic. Ngoài ra, phần mềm này còn được thiết kế để đảm bảo hiệu năng cao: chạy nhanh, không yêu cầu kết nối wifi, nhẹ và không cần thiết bị quá đắt đỏ, giúp người dùng có thể sử dụng trên nhiều loại máy tính với cấu hình không quá cao.
